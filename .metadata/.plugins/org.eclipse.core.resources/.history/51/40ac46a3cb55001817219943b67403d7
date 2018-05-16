@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<script src="node_modules/cytoscape/dist/cytoscape.js"></script>
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>
